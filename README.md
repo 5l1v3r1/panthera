@@ -1,9 +1,9 @@
-F.A.Q 
+# F.A.Q 
 
 # panthera
 Advanced sub domain and dns brute forcer
 
-# What is Panthera?:
+# What is Panthera?
 1. Panthera is a Perl tool designed to enumerate subdomains with websites using OSINT rather waiting for
 apis. Panthera have built in file Sub-Host file, which is collected from  OSINT sources like Google, Yahoo, Bing, Baidu, and Ask, Netcraft, Virustotal, ThreatCrowd, DNSdumpster, Robtex, ReverseDNS,etc only naming a few.
 
