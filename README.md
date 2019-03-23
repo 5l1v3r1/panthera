@@ -13,7 +13,7 @@ apis. Panthera have built in file file, which is collected via OSINT sources lik
 
 
 # How requests are handled?
-1. Web requests are automatically handled by LWP including user agents issues.
+1. Web requests are automatically handled by LWP via Perl.
 2. DNS brute forcer uses Nmap with custom file.
 
 # Contact
