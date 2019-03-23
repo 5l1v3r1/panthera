@@ -3,14 +3,9 @@
 # Panthera
 Advanced sub domain and dns brute forcer
 
-![Settings Window](https://ibb.co/pfRff7P)
-
-![ScreenShot](https://ibb.co/pfRff7P)
-
-![Alt text](https://ibb.co/pfRff7P?raw=true "Title")
-
-![alt text](https://ibb.co/pfRff7P)
-
+<div align="center">
+    <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
+</div>
 
 # What is Panthera?
 1. Panthera is a Perl tool designed to enumerate subdomains with websites using OSINT rather waiting for
