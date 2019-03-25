@@ -3,11 +3,11 @@
 # Panthera
 Advanced Dns tool
 
-<div align="center">
+<div align="left">
     <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
 </div>
 
-<div align="center">
+<div align="right">
     <img src="https://i.ibb.co/VqTRnpg/zonetransfer.png" width="400px"</img> 
 </div>
 
@@ -53,6 +53,9 @@ apis. Panthera have built in file file, which is collected via OSINT sources lik
 # How requests are handled?
 1. Web requests are automatically handled by LWP via Perl.
 2. Panthera uses Nmap with custom word file.
+
+# Installation
+1. git clone 
 
 # Contact
 mrharoonawan@gmail.com
