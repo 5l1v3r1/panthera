@@ -1,7 +1,7 @@
 # F.A.Q 
 
 # Panthera
-Advanced sub domain and dns brute forcer
+Advanced Dns tool
 
 <div align="center">
     <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
@@ -30,7 +30,7 @@ apis. Panthera have built in file file, which is collected via OSINT sources lik
 
 # How requests are handled?
 1. Web requests are automatically handled by LWP via Perl.
-2. Panthera uses Nmap parameters advantage with custom word file.
+2. Panthera uses Nmap with custom word file.
 
 # Contact
 mrharoonawan@gmail.com
