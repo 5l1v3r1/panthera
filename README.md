@@ -3,11 +3,11 @@
 # Panthera
 Advanced Dns tool
 
-<div align="left">
+<div align="center">
     <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
 </div>
 
-<div align="right">
+<div align="center">
     <img src="https://i.ibb.co/VqTRnpg/zonetransfer.png" width="400px"</img> 
 </div>
 
@@ -55,7 +55,15 @@ apis. Panthera have built in file file, which is collected via OSINT sources lik
 2. Panthera uses Nmap with custom word file.
 
 # Installation
-1. git clone 
+1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
+2. Best path would be /root then mkdir Downloads since paths are set to this folder
+
+# Requirement
+1. Exclusively Linux
+2. Enter this in your terminal, perl -MCPAN -e shell, then type, install LWP::Simple
+3. Run scripts with perl parameter
+4. If you already have it, skip it
+
 
 # Contact
 mrharoonawan@gmail.com
