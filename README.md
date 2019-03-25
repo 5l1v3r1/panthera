@@ -15,10 +15,22 @@ apis. Panthera have built in file file, which is collected via OSINT sources lik
 
 3. Panthera gives 100% accurate results.
 
+4. Panthera can give third party visited requests from Dns 
+
+5. Panthera can give Dns Zone Transfers, AXFR
+
+6. Panthera can give you Dns Txt and Dns spoofing information
+
+7. Panthera can do cache, recursion of DNS
+
+8. Panthera can do subdomain checking
+
+9. Panthera can point wild card enteries domain using DNS brute
+
 
 # How requests are handled?
 1. Web requests are automatically handled by LWP via Perl.
-2. DNS brute forcer uses Nmap with custom file.
+2. Panthera uses Nmap parameters advantage with custom word file.
 
 # Contact
 mrharoonawan@gmail.com
