@@ -13,18 +13,21 @@ print "[ + ] Version: 		Open Source Edition 1.0a\n";
 print "[ + ] Contact: 		mrharoonawan\@gmail\.com \n";
 print "[ + ] Environment: 	LWP Module, Perl under Kali Linux\n";
 print "[ + ] Github: 		Https://www.github.com/haroonawanethicalhacker\n";
-print "[ + ] Design Scheme: 	Sub-Hosts file get collect with finest OSINT sources including DNS wildcard enteries\n";
+print "[ + ] Design Scheme: 	Word list file get collect with finest OSINT sources including DNS wildcard enteries\n";
 print "[ + ] Usage: 		$0 url.com\n\n";
 print color('reset');
 print color('bold green');
 $site="$ARGV[0]";
+print "\n[ + ] Enter path of world list: ";
+my $filename = <STDIN>;
+sleep (1);
 print "\n[ + ] Contacting target...\n";
 sleep (2);
 print "\n[ + ] Please wait, processsing data...\n";
-print "\n[ + ] Writting output to subdomains in the same folder...";
+print "\n[ + ] Writting output to subdomains in the same folder...\n";
 print "\n[ + ] It will take a minute or more, depending on the data...\n\n";
 if (length $site) {
-open("subdomainslist","<Sub-Hosts.txt") or die "Locate Sub-Hosts.txt";
+open("subdomainslist",$filename) or die "Locate Sub-Hosts.txt";
 while(<subdomainslist>)     {
 chomp($_);
 $sub = $_;
@@ -40,4 +43,5 @@ close("sav");
 close("subdomainslist");
                         }
 print color('reset');
+print "\n";
 exit;
