@@ -7,6 +7,28 @@ Advanced Dns tool
     <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
 </div>
 
+<div align="center">
+    <img src="https://i.ibb.co/VqTRnpg/zonetransfer.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/TcZfTwS/subdomain-final.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/hMnvLM0/dns-text-predictable.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/DzpL9Kn/dns-recursion-checker.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/2dJpG6v/dnscache-final.png" width="400px"</img> 
+</div>
+
+
+
 # What is Panthera?
 1. Panthera is a Perl tool designed to enumerate subdomains with websites using OSINT rather waiting for
 apis. Panthera have built in file file, which is collected via OSINT sources like Google, Yahoo, Bing, Baidu, and Ask, Netcraft, Virustotal, ThreatCrowd, DNSdumpster, Robtex, ReverseDNS, etc and only naming a few.
