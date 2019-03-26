@@ -4,6 +4,10 @@
 Advanced Dns tool
 
 <div align="center">
+    <img src="http://i67.tinypic.com/28slkkj.png" width="400px"</img> 
+</div>
+
+<div align="center">
     <img src="https://i.ibb.co/X7377Q4/github.png" width="400px"</img> 
 </div>
 
