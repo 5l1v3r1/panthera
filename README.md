@@ -4,7 +4,7 @@
 Advanced Dns tool
 
 <div align="center">
-    <img src="http://i67.tinypic.com/28slkkj.png" width="400px"</img> 
+    <img src="http://i63.tinypic.com/2utgvhj.png" width="400px"</img> 
 </div>
 
 <div align="center">
