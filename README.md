@@ -42,7 +42,7 @@ Advanced Dns tool
 6. Panthera can give Dns Zone Transfers, AXFR
 7. Panthera can give you Dns Txt and Dns spoofing information
 8. Panthera can perform cache, recursion of DNS
-9. Panthera can perform DNS pointing to Sub Domain checking
+9. Panthera can perform DNS pointing to Sub Domains
 10. Panthera can point wild card enteries domain using DNS brute
 
 
