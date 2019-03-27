@@ -1,7 +1,11 @@
 # F.A.Q 
 
 # Panthera
-Advanced Dns tool
+Advanced Dns hack tool
+
+<div align="center">
+    <img src="http://i65.tinypic.com/16aqt5d.png" width="400px"</img> 
+</div>
 
 <div align="center">
     <img src="http://i63.tinypic.com/2utgvhj.png" width="400px"</img> 
@@ -34,7 +38,8 @@ Advanced Dns tool
 
 
 # What is Panthera?
-1. Panthera is a Perl tool designed to enumerate DNS and DNS pointing Sub Domains with websites using OSINT rather waiting for apis. Panthera have built in file list which is collected from top sources like Google, Yahoo, Bing, Baidu, and Ask, Netcraft, Virustotal, ThreatCrowd, DNSdumpster, Robtex, ReverseDNS, etc and only naming a few.
+1. Panthera is a collection of scripts and codings in Perl and Python for all DNS related attacks that cover ddos and spoof
+2. Panthera is also designed to enumerate DNS and DNS pointing Sub Domains with websites using OSINT rather waiting for apis. Panthera have built in file list which is collected from top sources like Google, Yahoo, Bing, Baidu, and Ask, Netcraft, Virustotal, ThreatCrowd, DNSdumpster, Robtex, ReverseDNS, etc and only naming a few.
 2. It eliminate duplicates, shows only common names found on actual domains rather wasting time and also gives recorded results of DNS pointed Sub Domains which could be wildcard alterted.
 3. Panther can perform DNS banner grabbing
 4. Panthera gives 100% accurate results.
