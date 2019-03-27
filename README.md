@@ -4,7 +4,7 @@
 Advanced Dns hack tool
 
 <div align="center">
-    <img src="http://i65.tinypic.com/16aqt5d.png" width="400px"</img> 
+    <img src="http://oi64.tinypic.com/talwrr.jpg" width="400px"</img> 
 </div>
 
 <div align="center">
