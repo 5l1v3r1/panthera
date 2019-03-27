@@ -20,20 +20,20 @@ print color('bold green');
 $site="$ARGV[0]";
 
 print "[ + ] Enter url.com ... : "; 
-my $url = <STDIN>;
-chomp $url;
-print "[ + ] Basic Dns Brute Force(1) or Advanced Dns Brute Force(2): ";
+chomp(my $url = <STDIN>);
+print "\n[ + ] Basic Dns Brute Force(1) or Advanced Dns Brute Force(2): ";
 my $choice = <STDIN>;
-print "\n[ + ] Enter path of world list: ";
+if ($choice == 1) {
+print "\n";
+$sys = system("nmap --script dns-brute '$url'") ;
+} else {
+print "\n[ + ] Enter path of world list: \n";
 my $filename = <STDIN>;
+$sys = system("nmap --script dns-brute --script-args dns-brute.domain='$url' ,dns-brute.threads=6,dns-brute.hostlist='$filename',newtargets -sS -p 80") ;
+}
 print "\n[ + ] Contacting target ...\n";
 sleep (2);
 print "\n[ + ] Please wait, starting DNS brute force using Nmap ...\n";
 print "\n[ + ] Collecting output, it will take a minute or more, depending on the data ...\n\n";
-if ($choice ==1) {
-$sys = system("nmap --script dns-brute '$url' ") ;
-} else {
-$sys = system("nmap --script dns-brute --script-args dns-brute.domain='$url' ,dns-brute.threads=6,dns-brute.hostlist='$filename',newtargets -sS -p 80") ;
-}
 print "\n";
 exit;
