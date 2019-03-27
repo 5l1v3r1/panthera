@@ -48,7 +48,8 @@ Advanced Dns tool
 
 # How requests are handled?
 1. Web requests are automatically handled by LWP via Perl.
-2. Panthera uses Nmap with custom word file.
+2. Web requests are automatically handled by Python modules.
+3. Panthera uses Nmap with custom word file.
 
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
