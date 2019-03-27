@@ -1,8 +1,8 @@
 # F.A.Q 
 
 # PDF Guide
-1. Download PDF "Breaking_Pakistani_Indian_Cyber_Infrastructure_using_Panthera"
-2. It deals intermediate level of breaking into Pakistani & Indian cyber infrastructure for DNS to steal, spoof, ddos.
+1. Download PDF "Breaking_Pakistani_Indian_Cyber_Infrastructure_using_Panthera".
+2. It deals intermediate level of breaking into Pakistani & Indian cyber infrastructure for DNS to steal, spoof and ddos.
 3. Created to know statisics of affected systems in Pakistan and India specifically for educational and informational purpose only.
 
 
@@ -65,12 +65,12 @@ Advanced Dns hack tool
 
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
-2. Best path would be /root/Downloads/panthera since paths are set to this folder
+2. Best path would be /root/Downloads/panthera as paths are set to this folder
 
 # Requirement
 1. Requires Kali or Debian
-2. Enter in terminal, "perl -MCPAN -e shell", then, "install LWP::Simple"
-3. Run scripts with perl parameter
+2. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple"
+3. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
 
 # Contact
 mrharoonawan@gmail.com
