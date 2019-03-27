@@ -38,7 +38,7 @@ Advanced Dns hack tool
 
 
 # What is Panthera?
-1. Panthera is a collection of scripts and codings in Perl and Python for all DNS related attacks that cover ddos and spoof
+1. Panthera is a collection of scripts and codings in Perl and Python for all DNS related attacks
 2. Panthera is also designed to enumerate DNS and DNS pointing Sub Domains with websites using OSINT rather waiting for apis. Panthera have built in file list which is collected from top sources like Google, Yahoo, Bing, Baidu, and Ask, Netcraft, Virustotal, ThreatCrowd, DNSdumpster, Robtex, ReverseDNS, etc and only naming a few.
 2. It eliminate duplicates, shows only common names found on actual domains rather wasting time and also gives recorded results of DNS pointed Sub Domains which could be wildcard alterted.
 3. Panther can perform DNS banner grabbing
@@ -49,10 +49,11 @@ Advanced Dns hack tool
 8. Panthera can perform cache, recursion of DNS
 9. Panthera can perform DNS pointing to Sub Domains
 10. Panthera can point wild card enteries domain using DNS brute
-
+11. Panthera can perform DDOS using Dns spoofed packets to victim causing amplification and load on victim
+12. Panthera have Dns cache poisoning capability for powerful spoofing
 
 # How requests are handled?
-1. Web requests are automatically handled by LWP via Perl.
+1. Web requests are automatically handled by Perl modules.
 2. Web requests are automatically handled by Python modules.
 3. Panthera uses Nmap with custom word file.
 
