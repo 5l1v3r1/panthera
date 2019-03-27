@@ -2,7 +2,7 @@
 
 # PDF Guide
 1. Download PDF "Breaking_Pakistani_Indian_Cyber_Infrastructure_using_Panthera"
-2. It deals internetmediate level of breaking for Pakistani and Indian cyber infrastructure using Panthera, stealing Dns requests, spoofing, ddos and more.
+2. It deals intermediate level of breaking Pakistani & Indian cyber infrastructure using Panthera for DNS for stealing, spoofing, ddos and more.
 
 
 # Panthera
