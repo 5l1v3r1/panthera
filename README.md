@@ -69,7 +69,7 @@ Advanced Dns hack tool
 
 # Requirement
 1. Requires Kali or Debian
-2. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple"
+2. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple", then, "install Term::ANSIColor"
 3. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
 
 # Contact
