@@ -10,6 +10,10 @@
 Advanced Dns hack tool
 
 <div align="center">
+    <img src="http://oi65.tinypic.com/qzq59v.jpg" width="400px"</img> 
+</div>
+
+<div align="center">
     <img src="http://oi64.tinypic.com/talwrr.jpg" width="400px"</img> 
 </div>
 
