@@ -67,9 +67,9 @@ Advanced Dns hack tool
 2. Web requests are automatically handled by Python modules.
 
 # How DNS requests are handled?
-1. The tool is designed to listen on TCP or UDP ports (default is port 53) for incoming requests and forward those requests when necessary to a real DNS server over UDP.
+1. The tool is designed to listen on TCP or UDP ports (default is port 53) for incoming requests and forward those requests when necessary to deal with real DNS server over UDP.
 2. Scappy can handle DNS queries automatically and more  accurately
-3. DNS hijacker can forge domain names ONLY
+3. This tool can ONLY be used as domain name records forge
 
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
