@@ -66,6 +66,10 @@ Advanced Dns hack tool
 1. Web requests are automatically handled by Perl modules.
 2. Web requests are automatically handled by Python modules.
 
+# How DNS requests are handled?
+1. The tool is designed to listen on TCP or UDP ports (default is port 53) for incoming requests and forward those requests when necessary to a real DNS server over UDP.
+2. Scappy can handle DNS queries automatically and more  accurately
+
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
 2. Best path would be /root/Downloads/panthera as paths are set to this folder
