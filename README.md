@@ -10,6 +10,11 @@
 Advanced Dns hack tool
 
 <div align="center">
+    <img src="http://oi64.tinypic.com/2a4pyl4.jpg" width="400px"</img> 
+</div>
+
+
+<div align="center">
     <img src="http://oi65.tinypic.com/qzq59v.jpg" width="400px"</img> 
 </div>
 
@@ -60,11 +65,13 @@ Advanced Dns hack tool
 9. Panthera can perform DNS pointing to Sub Domains
 10. Panthera can point wild card enteries domain using DNS brute
 11. Panthera can perform DDOS using Dns spoofed packets to victim causing amplification and load on victim
-12. Panthera have Dns cache poisoning capability for powerful spoofing
+12. Panthera have Dns cache poisoning capability for powerful web spoofing
+13. Panthera have ability to scan CNAME and Aliases, in net block to expose domain hijack vulnerabilities in seconds
 
 # How requests are handled?
 1. Web requests are automatically handled by Perl modules.
 2. Web requests are automatically handled by Python modules.
+3. Web requests are automatically handled by Bash, Awk and Sed scripting modules.
 
 # How DNS requests are handled?
 1. The tool is designed to listen on TCP or UDP ports (default is port 53) for incoming requests and forward those requests when necessary to deal with real DNS server over UDP.
@@ -79,11 +86,13 @@ Advanced Dns hack tool
 
 # Requirement
 1. Strictly Kali
-2. Panthera use Nmap with custom word files.
+2. Panthera use Nmap
 3. Panthera use Bash scripting
 4. Panthera use Metasploit
 5. Panthera needs Perl
 6. Panthera needs Python
+7. Panthera use Awk scripting
+8. Panthera use Sed scripting
 
 # Contact
 mrharoonawan@gmail.com
