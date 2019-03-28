@@ -83,14 +83,15 @@ Advanced Dns hack tool
 2. Best path would be /root/Downloads/panthera as paths are set to this folder
 3. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple", then, "install Term::ANSIColor"
 4. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
+5. Make .sh scripts in Panthera world readable and write able by chmod 755 filename or chmod +x filename option
 
 # Requirement
-1. Strictly Kali
-2. Panthera use Nmap
-3. Panthera use Bash scripting
-4. Panthera use Metasploit
-5. Panthera needs Perl
-6. Panthera needs Python
+1. Panthera needs Kali
+2. Panthera needs Perl
+3. Panthera needs Python
+4. Panthera use Nmap
+5. Panthera use Metasploit
+6. Panthera use Bash scripting
 7. Panthera use Awk scripting
 8. Panthera use Sed scripting
 
