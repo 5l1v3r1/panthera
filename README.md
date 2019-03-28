@@ -65,16 +65,20 @@ Advanced Dns hack tool
 # How requests are handled?
 1. Web requests are automatically handled by Perl modules.
 2. Web requests are automatically handled by Python modules.
-3. Panthera uses Nmap with custom word file.
 
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
 2. Best path would be /root/Downloads/panthera as paths are set to this folder
+3. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple", then, "install Term::ANSIColor"
+4. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
 
 # Requirement
-1. Requires Kali or Debian
-2. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple", then, "install Term::ANSIColor"
-3. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
+1. Strictly Kali
+2. Panthera use Nmap with custom word files.
+3. Panthera use Bash scripting
+4. Panthera use Metasploit
+5. Panthera needs Perl
+6. Panthera needs Python
 
 # Contact
 mrharoonawan@gmail.com
