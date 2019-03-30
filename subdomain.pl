@@ -1,3 +1,12 @@
+#***************************************************************************************#
+#----------------------- EULA LICENSE AGREEMENT NOTICE ---------------------------------#
+#1. This software uses EULA based software agreement that grants users rights to use for#
+#any purpose, modify and redistribute creative works about this software.               #
+#2. This software comes in "is-as" warranty, author "Haroon Awan" take no responsbility #
+#what you do with by/this software. Your free to use this software as it is for any     #
+#purpose that suites as long as it is not related to crime.                             #
+#***************************************************************************************#
+
 #!/usr/bin/env perl
 use LWP::UserAgent;
 no warnings 'uninitialized';
@@ -27,7 +36,7 @@ print "\n[ + ] Please wait, processsing data...\n";
 print "\n[ + ] Writting output to subdomains in the same folder...\n";
 print "\n[ + ] It will take a minute or more, depending on the data...\n\n";
 if (length $site) {
-open("subdomainslist",$filename) or die "Locate Sub-Hosts.txt";
+open("subdomainslist",$filename);
 while(<subdomainslist>)     {
 chomp($_);
 $sub = $_;
@@ -35,7 +44,7 @@ $url=$address='http://'.$sub.'.'.$site;
 $req = $ua->get("$url");
 if ($req->is_success)   {
 print "\n$url";
-open("save",">>subdomains.txt") or die "Allow write able permission";
+open("save",">>subdomains.txt");
 print save "$url\n";
 close("sav");
                   }
