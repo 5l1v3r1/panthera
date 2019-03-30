@@ -5,6 +5,8 @@
 2. It deals intermediate level of breaking into Pakistani & Indian cyber infrastructure for DNS to steal, spoof and ddos.
 3. Created to know statisics of affected systems in Pakistan and India specifically for educational and informational purpose only.
 
+# License
+EULA 
 
 # Panthera
 Advanced Dns hack tool
