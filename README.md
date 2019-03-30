@@ -54,7 +54,7 @@ Advanced Dns hack software
 
 
 # Programming
-1. Panthera written in Python, Perl, Bash, Awk, Sed combined with power of native applications metasploit and nmap 
+1. Panthera written in Python, Perl, Bash, Awk, Sed combined with power of native applications metasploit, nmap, unix utils 
 
 # What is Panthera?
 1. Panthera is a collection of scripts and codings in Perl and Python for all DNS related attacks
