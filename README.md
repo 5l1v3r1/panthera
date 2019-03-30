@@ -9,7 +9,7 @@
 EULA 
 
 # Panthera
-Advanced Dns hack tool
+Advanced Dns hack software written in Python, Perl, Bash, Awk, Sed
 
 <div align="center">
     <img src="http://oi64.tinypic.com/2a4pyl4.jpg" width="400px"</img> 
