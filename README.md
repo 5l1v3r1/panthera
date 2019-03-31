@@ -9,7 +9,9 @@
 EULA 
 
 # Panthera
-Advanced Dns hack protection software by revealing full information it can
+1. Advanced Dns hack software
+2. This is a protection software by hacking and revealing full information it can
+
 
 <div align="center">
     <img src="http://oi64.tinypic.com/2a4pyl4.jpg" width="400px"</img> 
